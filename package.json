@@ -1,0 +1,8 @@
+{
+  "name": "BaseStation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/iWuzhi/BaseStation.git",
+  "author": "iWuzhi <2461358597@qq.com>",
+  "license": "MIT"
+}
